@@ -36,4 +36,3 @@ def add_colors
   change_rainbow_colors << "green"
   change_rainbow_colors << "blue"
 end
-
